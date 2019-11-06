@@ -1,5 +1,7 @@
 # BatteryDispenser
-Battery Dispender for 3 mm Material for Laser Cutter
+SVG templates for battery dispender for 3 mm material cutting with a laser cutter.
+Created with Inkscape.
 
 # Betteriespender
-Vorlagen für Batteriespender zum Schnitt mit dem Laser Cutter aus 3mm-Material
+SVG-Vorlagen für Batteriespender zum Schnitt mit dem Laser Cutter aus 3mm-Material.
+Erstellt mit Inkscape.
